@@ -1,6 +1,6 @@
 ## Hi, I'm Sarah 👋
 
-Data analyst turned GIS student. I've loved databases since I first studied them in school, and I've spent about five years in data and analytics: SQL, data modeling, dbt, R, and dashboards people actually use. Now I'm bringing all of that to maps.
+Data analyst turned GIS student. I've loved databases since I first studied Access during undergrad. I've spent years in data and analytics: SQL, data modeling, dbt, R, and dashboards people actually use. Now I'm bringing all of that to maps.
 
 🌲 **Where I'm headed:** geospatial data analysis for conservation, environmental, and mission-driven organizations
 
